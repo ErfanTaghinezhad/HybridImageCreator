@@ -26,7 +26,7 @@ Place your two input images in the `images` folder:
 ## Output
 An example of the output hybrid image:
 
-![Hybrid Image](output/hybrid_image.jpg)
+![Hybrid Image](output/musk-trump.jpg)
 
 ## Code Structure
 - **images/**: Folder containing input images.
