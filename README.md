@@ -18,7 +18,7 @@ Place your two input images in the `images` folder:
 - `IMG_3645.jpg` (Second image, e.g., Elon Musk)
 
 ### How to Run
-1. Open the `src/hybrid_image.m` file in MATLAB.
+1. Open the `hybrid_image.m` file in MATLAB.
 2. Ensure the input images are available in the `images` folder.
 3. Run the script.
 4. The output image will be saved in the `output` folder as `hybrid_image.jpg`.
